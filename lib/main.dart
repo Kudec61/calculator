@@ -155,7 +155,7 @@ void themeColorFunc(){
     } else if (buttonValue == "%") {
       if (double.parse(initialValue) != 0) {
         setState(() {
-          initialValue = (double.parse(initialValue) / 100).toString();
+          initialValue = (int.parse(initialValue) / 100).toString();
           initialValue = initialValue.replaceAll(".", ",");
           if (buttonValue != "%") {
             initialValue = double.parse(initialValue + buttonValue).toString();
