@@ -1,0 +1,3 @@
+# Kodlar basitçe anlaşılır düzeyde olması için tam olarak widget düzeni kullanılmamıştır.
+# Elimden geldiğince hata verebilecek işlemleri gözden geçirdim. Farkedilmemiş hatalar yakalarsanız '61ademkose@gmail.com' eposta adresi üzerinden bildirebilirsiniz.
+# "Aslın şu şekilde kodlansaydı daha basit bir yapı olurdu" diye gözlemlediğiniz kod bloğunuda paylaşabilirsiniz.
