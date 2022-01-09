@@ -1,2 +1,0 @@
-1- . işaretini hesaplama adımlarında kullanılmıyor.
-2- , işareti hesaplamalarda kullanılmıyor.
